@@ -54,11 +54,14 @@
 
 ## 📌 Observações
 
-    Os dados exibidos são simulados via useState e carregados com useEffect.
+Os dados exibidos são simulados via useState e carregados com useEffect.
 
-    Compatível com mobile (iOS/Android) e web (Expo Web).
+Compatível com mobile (iOS/Android) e web (Expo Web).
 
-    O estilo é responsivo e adaptado ao modo escuro.
+O estilo é responsivo e adaptado ao modo escuro.
+
+Ao iniciar com npx expo start, escaneeie o código com o aplicativo Expo GO
+![QR code exemplo](image.png)
 
 ## 🧑‍💻 Autor
 
