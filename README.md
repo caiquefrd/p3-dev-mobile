@@ -14,6 +14,7 @@
   - Horas de sono
   - Hidratação
   - Frequência cardíaca
+  - Passos dados
 - 🔗 Botão "Ver mais informações" com link externo
 
 ---
@@ -42,7 +43,7 @@
 1. Clone o repositório:
 
 ```bash
-    git clone https://github.com/seu-usuario/minha-saude-hoje.git
+    git clone https://github.com/caiquefrd/p3-dev-mobile.git
     cd minha-saude-hoje
     
     npm install
