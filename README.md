@@ -44,7 +44,8 @@
 
 ```bash
     git clone https://github.com/caiquefrd/p3-dev-mobile.git
-    cd minha-saude-hoje
+
+    cd p3-dev-mobile.git
     
     npm install
 
@@ -61,6 +62,7 @@ Compatível com mobile (iOS/Android) e web (Expo Web).
 O estilo é responsivo e adaptado ao modo escuro.
 
 Ao iniciar com npx expo start, escaneeie o código com o aplicativo Expo GO
+
 ![QR code exemplo](image.png)
 
 ## 🧑‍💻 Autor
