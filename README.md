@@ -45,7 +45,7 @@
 ```bash
     git clone https://github.com/caiquefrd/p3-dev-mobile.git
 
-    cd p3-dev-mobile.git
+    cd p3-dev-mobile
     
     npm install
 
